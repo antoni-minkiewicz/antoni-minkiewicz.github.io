@@ -1,0 +1,24 @@
+.WW-class{
+  font-family: "Volkorn";
+  font-size: 50px;
+  border-style:solid;
+  margin: ;
+}
+.WW-class-small{
+  border-style:solid;
+  margin: ;
+}
+h2{
+  font-family: "Volkorn";
+  font-size: 20px;
+}
+ul {
+  font-family: "Volkorn";
+  font-size: 15px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
