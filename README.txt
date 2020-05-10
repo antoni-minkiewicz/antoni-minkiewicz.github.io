@@ -1,3 +1,1 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/antoni-minkiewicz/pen/eMdNWg.
-
- 
+This is no "PEN", This is the real deal
